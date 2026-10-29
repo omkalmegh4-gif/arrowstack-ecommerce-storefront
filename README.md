@@ -6,12 +6,12 @@ A React + TypeScript frontend project created for the Arrowstack Frontend Develo
 Help shoppers discover products, filter a catalog, manage a cart, and validate checkout details in an accessible responsive interface.
 
 ## Features
-- Product search and category filter
-- Add/remove items and quantity controls
-- Cart subtotal (demo only; no real payment)
-- Checkout form validation
-- Empty cart and success states
-- Keyboard-operable controls and responsive layout
+- Editorial-style responsive storefront and curated product collection
+- Product search, category filters, and interactive favorites
+- Shopping bag with item counts, quantity controls, remove actions, and live subtotal
+- Validated demo checkout and order confirmation (no payment processing)
+- Accessible controls, visible keyboard focus, and clear empty/success states
+- Shopping information, shipping threshold, and returns messaging
 
 ## Tech stack
 - React + TypeScript
